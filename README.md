@@ -2,7 +2,8 @@
 
 Real-time detection and prevention of prompt injection attacks for LLM applications.
 
-[![Tests](https://github.com/BabyChrist666/prompt-injection-detector/actions/workflows/tests.yml/badge.svg)](https://github.com/BabyChrist666/prompt-injection-detector/actions)
+[![Tests](https://github.com/BabyChrist666/prompt-injection-detector/actions/workflows/tests.yml/badge.svg)](https://github.com/BabyChrist666/prompt-injection-detector/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/BabyChrist666/prompt-injection-detector/branch/master/graph/badge.svg)](https://codecov.io/gh/BabyChrist666/prompt-injection-detector)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
